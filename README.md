@@ -23,8 +23,6 @@ Com uma base sólida em arquitetura de software e princípios como **SOLID**, bu
 
 ---
 
-### 💡 Nota sobre meus repositórios
+### 💡 Nota
 
-Muitos dos projetos comerciais e mais complexos em que trabalhei estão em repositórios privados de clientes ou foram desenvolvidos em outro perfil profissional. Por isso, meu histórico de contribuições aqui pode não refletir a totalidade da minha experiência e do meu trabalho diário.
-
-Estou gradualmente migrando e criando projetos pessoais para compartilhar mais do meu código com a comunidade. Sinta-se à vontade para explorar o que já está disponível!
+Muitos dos projetos comerciais e mais complexos em que trabalhei estão em repositórios privados de clientes ou foram desenvolvidos em outro perfil profissional. Estou gradualmente migrando e criando projetos pessoais para compartilhar mais do meu código com a comunidade. Sinta-se à vontade para explorar o que já está disponível!
