@@ -28,7 +28,7 @@ Minha base é **Clean Architecture, SOLID e modularização**: código limpo, te
 
 ### 📌 Projetos em Destaque
 
-- **[Commitic](https://github.com/tavioribeiro/commitic)** — App desktop multiplataforma (KMP + Compose Multiplatform) que usa LLMs para gerar mensagens de commit e descrições de PR. Suporta 8 provedores de IA, com CI/CD e releases para Windows, Linux e Mac. Construído com Claude Code.
+- **[Commitic](https://github.com/tavioribeiro/commitic)** — App desktop multiplataforma (KMP + Compose Multiplatform) que usa LLMs para gerar mensagens de commit e descrições de PR. Suporta 8 provedores de IA, com CI/CD e releases para Windows, Linux e Mac.
 - **[ReNerd](https://github.com/tavioribeiro/ReNerd)** — App Android nativo de podcasts com player em foreground service (Kotlin, MVP, SQLDelight, ExoPlayer).
 
 ---
