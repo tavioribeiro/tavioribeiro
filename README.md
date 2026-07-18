@@ -30,8 +30,6 @@ Minha base é **Clean Architecture, SOLID e modularização**: código limpo, te
 
 - **[Commitic](https://github.com/tavioribeiro/commitic)** — App desktop multiplataforma (KMP + Compose Multiplatform) que usa LLMs para gerar mensagens de commit e descrições de PR. Suporta 8 provedores de IA, com CI/CD e releases para Windows, Linux e Mac. Construído com Claude Code.
 - **[ReNerd](https://github.com/tavioribeiro/ReNerd)** — App Android nativo de podcasts com player em foreground service (Kotlin, MVP, SQLDelight, ExoPlayer).
-- **[ADB-Manager](https://github.com/tavioribeiro/ADB-Manager)** — Ferramenta em Kotlin para gerenciamento de dispositivos via ADB.
-- **[Eco-Tanque](https://github.com/tavioribeiro/Eco-Tanque)** — App Android que ajuda o usuário a decidir o combustível mais econômico na hora de abastecer.
 
 ---
 
